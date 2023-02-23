@@ -33,3 +33,20 @@ _/ -" /.' /:/;
 
 Create 3 branches and add some file on them. Then rebase each with this.
 Now is time to commit so to (hope) have the data from each
+
+Well I guess it make a logic.
+Now work in working branch.
+Il switch to logic branch and start work there
+but first Ill commit these 4 lines
+
+I make git rebase logic but it didn't work
+now I'm in logic but with switch, merge
+Make one commit here
+
+Make some new changes always in logic branch
+Here are some
+Also on file logit02
+
+3rd time to make commit in logic branch
+Again change here
+Empty line indicates new commit..
