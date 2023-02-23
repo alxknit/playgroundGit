@@ -46,3 +46,7 @@ Make one commit here
 Make some new changes always in logic branch
 Here are some
 Also on file logit02
+
+3rd time to make commit in logic branch
+Again change here
+Empty line indicates new commit..
