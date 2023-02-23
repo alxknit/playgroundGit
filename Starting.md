@@ -38,3 +38,7 @@ Well I guess it make a logic.
 Now work in working branch.
 Il switch to logic branch and start work there
 but first Ill commit these 4 lines
+
+I make git rebase logic but it didn't work
+now I'm in logic but with switch, merge
+Make one commit here
