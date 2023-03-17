@@ -7,3 +7,5 @@ print(a, z, lm)
 # save and commit here
 # add on data
 # %%
+
+print("this can run to interactive since is after #%%")
